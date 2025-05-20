@@ -1,0 +1,1 @@
+This is an example repo of parsing some `.stp` files I found on the web :)
